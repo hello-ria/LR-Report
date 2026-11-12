@@ -1,4 +1,4 @@
-# Weekly status and risk assistant (prototype)
+# Weekly status and risk assistant
 
 Turns a task export (CSV) into a weekly status report, a list of risks and a small dashboard.
 
